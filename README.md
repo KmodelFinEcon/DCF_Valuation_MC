@@ -1,1 +1,1 @@
-Simple DCF structure template for construction with Monte Carlo probabilitic implementation in excel.
+This template repository simplifies the DCF approach by integrating a Monte Carlo simulation via the excel VBA platform. It allows users to model probabilistic inputs (e.g., revenue growth, discount rates, operating costs) and quantify the potential outcomes. This is particularly useful for high-uncertainty scenarios. 
